@@ -13,3 +13,9 @@
 ### Instructions
 1. modify serpapi_jobs.ipynb with name (and path) of your files above
 2. run the Jupyter notebook
+
+### Streamlit app
+1. clone the repo locally
+2. go to the streamlit_app directory
+3. install [streamlit](https://docs.streamlit.io/library/get-started/installation)
+4. run the code ```streamlit run main.py```
